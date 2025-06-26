@@ -12,13 +12,6 @@
 - 🧩 **Modular Agent Design**: Easily extendable with more tools or AI models.
 
 ---
-
-## 🖼️ Preview
-
-*You can include a screenshot or Streamlit GIF demo here to show the app in action.*
-
----
-
 ## 📁 Project Structure
 
 ```
